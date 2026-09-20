@@ -25,8 +25,6 @@ Maybe it’s coffee with a friend, a walk after work, a game night, or a regular
 3. **Meet your circle.** See what’s happening, join a plan, or post something of your own.
 4. **Try First Sparks.** The starter game introduces things to set up and try. Come back when you’re ready—there’s no need to do everything at once.
 
-You don’t need a ChatGPT account. Everyday sign-in uses your email and password; you don’t need a new SMS code for every sign-in.
-
 ## A calendar that helps you connect
 
 On iPhone, you can allow calendar access to find free slots, set up calendar-to-status sync, or add a status to a calendar you choose. You control the calendars, sync rules, audiences, and reminder settings.
@@ -41,10 +39,10 @@ Choose a friend’s email, phone number, or both from a selected contact, or typ
 
 ## A few good things to know
 
-Statuslilt is in active testing. The iPhone app is distributed through TestFlight, and the web app shares your account and plans. Some features—especially device calendars, local reminders, Maps, and on-device AI—are iPhone-specific or require a supported device and permission.
+Statuslilt is in active testing. The iPhone app is distributed through TestFlight, and the web app shares your account and plans the way you decide. Some features—especially device calendars, local reminders, Maps, and on-device AI—are iPhone-specific or require a supported device and permission.
 
 Your audience choices matter. Public plans are visible more widely than circle plans, and anything you share can be copied by its recipients. Mood is a personal indicator, not a switch that makes a plan discoverable.
 
 For help or feedback, contact [support-statuslilt@lumalilt.com](mailto:support-statuslilt@lumalilt.com). Please don’t put passwords, verification codes, private invitations, or other people’s personal information in GitHub issues.
 
-This repository contains user-facing information about Statuslilt, rather than the app’s source code.
+This repository contains user-facing information about Statuslilt, rather than the app’s source code at this time.
