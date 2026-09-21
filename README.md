@@ -43,6 +43,6 @@ Frenpath is in active testing. The iPhone app is distributed through TestFlight,
 
 Your audience choices matter. Public plans are visible more widely than circle plans, and anything you share can be copied by its recipients. Mood is a personal indicator, not a switch that makes a plan discoverable.
 
-For help or feedback, contact [support-statuslilt@lumalilt.com](mailto:support-statuslilt@lumalilt.com). Please don’t put passwords, verification codes, private invitations, or other people’s personal information in GitHub issues.
+For help or feedback, contact [support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com). Please don’t put passwords, verification codes, private invitations, or other people’s personal information in GitHub issues.
 
 This repository contains user-facing information about Frenpath, rather than the app’s source code at this time.
