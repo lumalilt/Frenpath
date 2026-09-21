@@ -1,6 +1,6 @@
 # Frenpath Privacy Policy
 
-**Effective date: September 20, 2026 · Branding updated September 21, 2026**
+**Effective date: September 20, 2026 · Last updated September 21, 2026**
 
 Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information during the current invitation-only testing service. “We,” “us,” and “our” refer to the team operating Frenpath.
 
@@ -100,7 +100,7 @@ Important limits:
 - Deletion cannot recall recipients’ copies, screenshots, shared messages, third-party website records, or exported calendar events.
 - Provider logs and backups may have separate retention periods. We do not currently promise a fixed deletion deadline for every provider copy.
 
-If you cannot sign in, contact us using the address above to request help or deletion. Do not send identity documents unless specifically requested through an appropriate private channel.
+If you cannot sign in, contact us using the address above to request help or deletion. For invitation or access questions, you can also contact the person who invited you. Never share your password or verification codes with them. Do not send identity documents unless specifically requested through an appropriate private channel.
 
 ## 10. Your choices and requests
 
