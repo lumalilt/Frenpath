@@ -6,7 +6,7 @@ Frenpath helps you share what you’re up to, find a little room in your day, an
 
 Maybe it’s coffee with a friend, a walk after work, a game night, or a regular catch-up that you don’t want to lose touch with. Start small. Make a plan. Let the right people know.
 
-[Open Frenpath](https://status-friends.techsage.chatgpt.site/) · [Privacy policy](docs/privacy-policy.md)
+[Open Frenpath](https://frenpath.com/) · [Privacy policy](docs/privacy-policy.md)
 
 ## Your people, your plans
 
