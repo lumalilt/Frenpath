@@ -1,8 +1,8 @@
-# Statuslilt Privacy Policy
+# Frenpath Privacy Policy
 
-**Effective date: September 20, 2026**
+**Effective date: September 20, 2026 · Branding updated September 21, 2026**
 
-Statuslilt is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Statuslilt iPhone app and website handle information during the current invitation-only testing service. “We,” “us,” and “our” refer to the team operating Statuslilt.
+Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information during the current invitation-only testing service. “We,” “us,” and “our” refer to the team operating Frenpath.
 
 For privacy questions or requests, contact **[support-statuslilt@lumalilt.com](mailto:support-statuslilt@lumalilt.com)**. Do not include your password or verification codes. We may ask for information needed to verify that a request concerns your account.
 
@@ -10,7 +10,7 @@ For privacy questions or requests, contact **[support-statuslilt@lumalilt.com](m
 
 | Information | How it is used |
 | --- | --- |
-| Account and authentication information | Your display name, verified email and phone number, account identifiers, verification state, and session information support sign-in, recovery, invitation matching, and access controls. Firebase Authentication handles passwords and verification; Statuslilt does not store your password in its application database. |
+| Account and authentication information | Your display name, verified email and phone number, account identifiers, verification state, and session information support sign-in, recovery, invitation matching, and access controls. Firebase Authentication handles passwords and verification; Frenpath does not store your password in its application database. |
 | Selected invitation details | The email address and/or phone number you select or type, intended circle, inviter, invitation token, expiry, and redemption status let us restrict an invitation to its intended recipient. This can include information about someone who has not joined yet. |
 | Statuses and relationships | Titles, descriptions, categories, start/end times, recurrence, places, addresses, links, audiences, circles, memberships, invitations, join requests, and responses provide the planning and sharing features. |
 | Participation and contributions | Activity records, attendance confirmations, witnesses, game enrollment, points, streaks, trophies, event/source contributions, verification feedback, and reports support games, community discovery, moderation, and abuse prevention. |
@@ -23,13 +23,13 @@ Your display name and profile identifier can appear to other signed-in members i
 
 On iPhone, we use the system contact picker to let you choose a contact. We use only the details you select and confirm; we do not upload your full address book. You can also enter contact details manually.
 
-You decide whether to share an invitation using Mail, Messages, a share sheet, or a copied link. Those apps handle delivery under their own policies. Statuslilt does not automatically message your friend. Firebase separately sends authentication emails and SMS verification messages when requested.
+You decide whether to share an invitation using Mail, Messages, a share sheet, or a copied link. Those apps handle delivery under their own policies. Frenpath does not automatically message your friend. Firebase separately sends authentication emails and SMS verification messages when requested.
 
 Share invitations only with the intended recipient, and provide other people’s contact details responsibly. An invited person must verify a matching contact detail before accepting. Regular membership also requires both a verified email and phone number. A limited, specifically configured app-review account is exempt from phone setup.
 
 ## 3. Calendar information and reminders
 
-Calendar access is optional and controlled through iOS permissions and Statuslilt settings.
+Calendar access is optional and controlled through iOS permissions and Frenpath settings.
 
 - **Finding openings:** the app reads calendar availability on your device to suggest times and schedule local reminders. It does not upload detailed calendar events merely to find free slots.
 - **Calendar-to-status sync:** events covered by your enabled sync rules become server-stored statuses. The current automatic import sends the event title—or “Busy” for a busy-only rule—times, category, selected audience, and a derived source identifier used to manage updates. It does not copy the event’s full notes into the status description. Imported information is shared according to the rule and any enabled category-audience setting.
@@ -44,23 +44,23 @@ Local notifications may contain plan or reminder details on your lock screen. Yo
 
 With permission, the iPhone app uses your location for nearby places, venues, and plans. Maps searches may send a search term and location or search region to Apple. Opening directions uses your chosen mapping service.
 
-Searching for nearby plans does not itself make you discoverable. The Statuslilt server uses the search area to return matches; the current application does not save that search location as a location-history record. Infrastructure providers may still process request metadata and logs.
+Searching for nearby plans does not itself make you discoverable. The Frenpath server uses the search area to return matches; the current application does not save that search location as a location-history record. Infrastructure providers may still process request metadata and logs.
 
-When you deliberately enable nearby discovery for a status, an approximate area is stored with that status. A place name or street address you add can be more precise and can be visible to the status’s audience. Do not include your home address or another private location unless you intend to share it. Statuslilt does not provide continuous background location tracking.
+When you deliberately enable nearby discovery for a status, an approximate area is stored with that status. A place name or street address you add can be more precise and can be visible to the status’s audience. Do not include your home address or another private location unless you intend to share it. Frenpath does not provide continuous background location tracking.
 
 ## 5. Event discovery and AI
 
 The event browser visits third-party websites, which receive ordinary web requests and may use cookies or other technologies under their own policies. Opening a search engine or an external AI service sends the information you choose to that service.
 
-On supported iPhones, event extraction uses on-device processing, including Apple Foundation Models and, where available, text or image analysis of a page you ask it to read. Statuslilt does not send your private calendar or event-page text to a remote language model for these local features.
+On supported iPhones, event extraction uses on-device processing, including Apple Foundation Models and, where available, text or image analysis of a page you ask it to read. Frenpath does not send your private calendar or event-page text to a remote language model for these local features.
 
-Reading an event is different from contributing it. If you contribute a source, check an event for Local Legends, or create a status from extracted details, the submitted links, event details, area, and contribution records are sent to Statuslilt. Approved community events can be published beyond your circles. Local processing does not make those later submissions private.
+Reading an event is different from contributing it. If you contribute a source, check an event for Local Legends, or create a status from extracted details, the submitted links, event details, area, and contribution records are sent to Frenpath. Approved community events can be published beyond your circles. Local processing does not make those later submissions private.
 
 Extracted information can be wrong. Review dates, locations, and the original source before contributing or making plans.
 
 ## 6. Audiences, games, and sensitive information
 
-A status can be private to you, shared with selected circles or people, or public to Statuslilt members. Nearby discovery is an additional choice. “Public” does not promise publication to the entire internet; it does mean a broader audience within the service. People who receive content can still copy or share it outside the app.
+A status can be private to you, shared with selected circles or people, or public to Frenpath members. Nearby discovery is an additional choice. “Public” does not promise publication to the entire internet; it does mean a broader audience within the service. People who receive content can still copy or share it outside the app.
 
 Circle memberships, participation, game activities, leaderboards, and friend-visible trophies can reveal connections and attendance to the relevant audience. Private trophies use the private visibility option. Blocking restricts access within the app but cannot recall information someone already saw or copied.
 
@@ -73,7 +73,7 @@ The optional generation-based theme prompt does not save or transmit your genera
 We use service providers to operate the app, including:
 
 - **Google Firebase Authentication** for account verification, sign-in, recovery, and abuse protection. Google receives and stores phone numbers used for authentication for spam and abuse prevention across Google services, including Firebase. See [Firebase’s phone-authentication disclosure](https://firebase.google.com/docs/auth/web/phone-auth) and [Google’s Privacy Policy](https://policies.google.com/privacy).
-- **OpenAI Sites and its hosting infrastructure, including Cloudflare**, to host the website, API, and application database. A ChatGPT account is not required for current Statuslilt sign-in. Hosting through Sites does not mean local AI features send their inputs to ChatGPT.
+- **OpenAI Sites and its hosting infrastructure, including Cloudflare**, to host the website, API, and application database. A ChatGPT account is not required for current Frenpath sign-in. Hosting through Sites does not mean local AI features send their inputs to ChatGPT.
 - **Apple services**, where you use iOS, TestFlight, Maps, calendar integrations, or device features. TestFlight may provide developer-facing testing, crash, or feedback information under Apple’s settings and policies. See [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
 
 Authorized administrators may access information needed to provide support, moderate contributions, investigate abuse, and operate the service. We may disclose information when required by law or necessary to protect users, enforce service rules, or respond to security incidents. We do not promise that shared statuses are end-to-end encrypted.
@@ -88,7 +88,7 @@ Clearing browser/app data can remove local settings or sign you out. Signing out
 
 ## 9. Retention and deletion
 
-You can request account deletion in Statuslilt Settings. Deletion removes app membership and associated personal app records, including owned statuses and circles, subject to the exceptions below. Deleting a circle can affect other members’ access to it.
+You can request account deletion in Frenpath Settings. Deletion removes app membership and associated personal app records, including owned statuses and circles, subject to the exceptions below. Deleting a circle can affect other members’ access to it.
 
 Accounts also have an inactivity-deletion setting of **1, 3, or 6 months**, with **6 months as the default** and no Off option. The current implementation measures authenticated app activity, not only the last time you typed a password. Cleanup runs as the service is used, so deletion may occur after rather than precisely at the deadline.
 
@@ -114,7 +114,7 @@ We use authenticated access, audience checks, secure transport, and restricted s
 
 Our providers may process information in countries other than yours. Their arrangements and applicable law govern those transfers; this policy does not promise that all data stays in one country.
 
-Statuslilt is not designed specifically for children. We do not offer a parent-managed child-account system. If you believe a child has provided information in circumstances requiring parental consent, contact us so we can investigate and address it.
+Frenpath is not designed specifically for children. We do not offer a parent-managed child-account system. If you believe a child has provided information in circumstances requiring parental consent, contact us so we can investigate and address it.
 
 ## 12. Policy updates
 
