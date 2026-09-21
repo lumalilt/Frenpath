@@ -78,6 +78,8 @@ We use service providers to operate the app, including:
 
 Authorized administrators may access information needed to provide support, moderate contributions, investigate abuse, and operate the service. We may disclose information when required by law or necessary to protect users, enforce service rules, or respond to security incidents. We do not promise that shared statuses are end-to-end encrypted.
 
+When you report content, Frenpath sends moderators a copy of the reported content, your chosen reason and explanation, and your account identifier. Your identity is not shared with the person reported. Moderators can hide or restore content and keep decision notes. Limited report evidence and moderation records may be retained after content or account deletion to handle appeals, investigate abuse, and prevent repeated violations.
+
 The current app does not integrate a third-party advertising network or sell personal information. Sponsored/ad placeholders may appear, and related feedback may be stored. Those placeholders are not a claim that a live ad network is receiving your data. We will update this policy before introducing materially different advertising or data uses.
 
 ## 8. Cookies and device storage
