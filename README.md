@@ -27,9 +27,9 @@ Maybe it’s coffee with a friend, a walk after work, a game night, or a regular
 
 ## A calendar that helps you connect
 
-On iPhone, you can allow calendar access to find free slots, set up calendar-to-status sync, or add a status to a calendar you choose. You control the calendars, sync rules, audiences, and reminder settings.
+On iPhone, you can allow calendar access to find free slots, choose calendar events to review locally, or add a status to a calendar you choose. You control the calendars, keyword matching, audiences, and reminder settings.
 
-Looking for an opening is different from sharing a calendar event: availability suggestions are calculated on your device, while events you choose to import become statuses stored by Frenpath. Review sync audiences before enabling a rule. Calendar copies follow the sharing settings of their destination calendar.
+Calendar events and availability suggestions stay on your iPhone. Review an event’s content and audience, then tap **Post** to store and share the chosen plan through Frenpath. Matching events are not automatically uploaded as posts or drafts. Existing posted plans stay unchanged when your calendar changes. Calendar copies follow the sharing settings of their destination calendar.
 
 Suggestions reflect the calendar as last checked. They’re a helpful starting point, not a reservation or a guarantee that you’re still free.
 

@@ -1,6 +1,6 @@
 # Frenpath Privacy Policy
 
-**Effective date: September 20, 2026 · Last updated September 22, 2026**
+**Effective date: September 20, 2026 · Last updated September 23, 2026**
 
 Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information during the current invitation-only testing service. “We,” “us,” and “our” refer to the team operating Frenpath.
 
@@ -32,11 +32,11 @@ Share invitations only with the intended recipient, and provide other people’s
 Calendar access is optional and controlled through iOS permissions and Frenpath settings.
 
 - **Finding openings:** the app reads calendar availability on your device to suggest times and schedule local reminders. It does not upload detailed calendar events merely to find free slots.
-- **Calendar-to-status sync:** events covered by your enabled sync rules become server-stored statuses. The current automatic import sends the event title—or “Busy” for a busy-only rule—times, category, selected audience, and a derived source identifier used to manage updates. It does not copy the event’s full notes into the status description. Imported information is shared according to the rule and any enabled category-audience setting.
-- **On-device categorization:** on supported devices, Apple Intelligence through the Foundation Models framework can use an event’s title, time, location, and details to suggest a category. This analysis runs on the device; the resulting category can be saved with the imported status. Applying category audiences is a separate setting.
+- **Calendar review and posting:** matching events stay on your iPhone until you review an event and tap Post. Matching can read titles and descriptions locally. The review list is not uploaded as cloud drafts. Posting sends the content, times, categories and audience you confirm, plus derived identifiers for the source event and posting retries. Calendar notes and location are not automatically copied into the post. Calendar changes do not automatically update or delete posted plans. Previously imported statuses remain online until removed through the app.
+- **On-device categorization:** on supported devices, Apple Intelligence through the Foundation Models framework can use an event’s title and details to suggest a category. This analysis runs on the device. Categories and suggested audiences are reviewed before posting; no category suggestion automatically shares an event.
 - **Writing to a calendar:** when you add a status to a calendar, its title, description, times, location, and links may be copied there. Your calendar provider and that calendar’s sharing settings then govern the copy.
 
-Sync rules, import queues, calendar links, drafts, and reminder preferences may be stored locally. Disabling a permission stops future access but does not by itself erase statuses already imported or copies already written to a calendar. App deletion, remote edits, and status deletion do not necessarily remove exported calendar copies.
+Calendar matching setups, calendar links, unsent edits, and reminder preferences may be stored locally. The calendar review list is account-specific, limited to upcoming events, protected on disk and excluded from device backup; its saved review edits are also excluded from backup. New calendar data is not automatically uploaded. Existing copies made by older app versions may remain in earlier backups. Disabling a permission stops future access but does not by itself erase statuses already imported or copies already written to a calendar. App deletion, remote edits, and status deletion do not necessarily remove exported calendar copies.
 
 Local notifications may contain plan or reminder details on your lock screen. You can control notifications and previews in iOS settings.
 
