@@ -10,6 +10,8 @@ Maybe it’s coffee with a friend, a walk after work, a game night, or a regular
 
 ## Your people, your plans
 
+- **Plan privately first.** Plans has Calendar and Drafts. Review local events on iPhone, or save a chosen item as a private draft to continue on another device. Tap Post when you’re ready.
+- **Find the right view.** In Status, combine Current, Planned, or Past with All, You, Joined, or Circles. Doing selects your posts and plans you’ve joined. Filter by more than one category when it helps.
 - **Share a status.** Say what you’re doing now or planning next. Add a time, category, location, link, and room for company.
 - **Choose who sees it.** Keep a plan to yourself, share with particular people or circles, or make it public to Frenpath members. Nearby discovery is a separate choice for plans you want others to find.
 - **Find something to do.** Explore ideas, nearby places, plans shared in the app, and events from local websites. Check the original event source before heading out.
@@ -29,7 +31,7 @@ Maybe it’s coffee with a friend, a walk after work, a game night, or a regular
 
 On iPhone, you can allow calendar access to find free slots, choose calendar events to review locally, or add a status to a calendar you choose. You control the calendars, keyword matching, audiences, and reminder settings.
 
-Calendar events and availability suggestions stay on your iPhone. Review an event’s content and audience, then tap **Post** to store and share the chosen plan through Frenpath. Matching events are not automatically uploaded as posts or drafts. Existing posted plans stay unchanged when your calendar changes. Calendar copies follow the sharing settings of their destination calendar.
+Calendar events and availability suggestions stay on your iPhone. Review an event’s content and audience, then tap **Save draft** to keep that item privately online or **Post** to share the chosen plan through Frenpath. Matching events are not automatically uploaded as posts or drafts. Existing posted plans stay unchanged when your calendar changes. Calendar copies follow the sharing settings of their destination calendar.
 
 Suggestions reflect the calendar as last checked. They’re a helpful starting point, not a reservation or a guarantee that you’re still free.
 
