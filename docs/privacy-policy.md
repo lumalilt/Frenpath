@@ -1,6 +1,6 @@
 # Frenpath Privacy Policy
 
-**Effective date: September 20, 2026 · Last updated September 21, 2026**
+**Effective date: September 20, 2026 · Last updated September 22, 2026**
 
 Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information during the current invitation-only testing service. “We,” “us,” and “our” refer to the team operating Frenpath.
 
@@ -84,7 +84,15 @@ The current app does not integrate a third-party advertising network or sell per
 
 ## 8. Cookies and device storage
 
-The website and its embedded sign-in view use authentication cookies and Firebase browser storage to keep you signed in and restore sessions. Local storage also supports settings, themes, and drafts. These are distinct from any cookies used by third-party pages you visit through links or the event browser.
+The website uses necessary authentication cookies and Firebase browser storage to provide sign-in, session restoration, and security. Frenpath’s session cookie lasts up to one hour; Firebase sign-in storage persists until sign-out or clearing it. Phone verification may load Google’s security challenge when you request a code. Settings you explicitly choose, including themes, category-audience behavior, and locally created connection reminders, use device storage to provide those features. Temporary form recovery may use session storage for the life of the tab.
+
+Optional browser storage remembers unfinished plan drafts between visits, including any entered location and audience. It is off until you choose Accept all. Necessary only rejects all optional storage and removes saved browser drafts without signing you out, deleting your account, or changing published plans. Text currently open in an editor remains there until you close or leave it. Drafts expire 30 days after their last edit and are removed when the website next checks storage.
+
+Your choice, notice version, and decision time are stored on this browser for 180 days. You can change or withdraw the choice at any time using Privacy choices in the website footer or Settings. Withdrawal stops future draft storage and removes saved drafts from this browser. We do not add advertising or analytics trackers. A new optional purpose would require a new choice; Accept all does not authorize undisclosed future uses.
+
+These browser choices do not give blanket consent to processing personal information, change content audiences, or waive privacy rights. Necessary storage cannot be turned off through this optional-storage control; blocking it in your browser may prevent sign-in or other requested features. External websites have their own storage policies. The native iPhone app uses device storage for its requested features and does not use this browser draft-consent setting.
+
+[Review or change your privacy choices](https://frenpath.com/privacy-choices).
 
 Clearing browser/app data can remove local settings or sign you out. Signing out does not delete your server account. Device backups and calendar-provider copies may retain local information according to their own settings.
 
