@@ -6,6 +6,8 @@ Frenpath is a LumaLilt invitation-only testing service for sharing statuses, mak
 
 ## 1. Your account and invitations
 
+You must be at least 16 years old to use Frenpath. New enrollment is limited to residents of the United States and Canada and requires an invitation, accurate age/country information, agreement to these terms and contact verification. We may restrict an account when age information or applicable platform restrictions require review. Do not evade age or country controls by changing devices, accounts or declarations. If enrollment is unavailable in your country, you may request it from your invitation; this does not create an account or guarantee availability. Contact support for an eligibility correction, appeal or account-deletion request.
+
 Use contact details you control, provide accurate account information, protect your credentials and share invitation links only with the intended recipient. Accepting an invitation requires verification of a matching invited contact detail. Do not impersonate others, bypass access controls, abuse verification messages or use another person’s account without authorization.
 
 ## 2. Local calendar review, drafts and posting

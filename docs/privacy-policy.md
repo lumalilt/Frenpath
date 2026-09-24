@@ -133,7 +133,15 @@ We use authenticated access, audience checks, secure transport, and restricted s
 
 Our providers may process information in countries other than yours. Their arrangements and applicable law govern those transfers; this policy does not promise that all data stays in one country.
 
-Frenpath is not designed specifically for children. We do not offer a parent-managed child-account system. If you believe a child has provided information in circumstances requiring parental consent, contact us so we can investigate and address it.
+Frenpath is for people aged 16 and older. Enrollment is available for residents of the United States and Canada. We ask for a country of residence and an age band, not a birthday or identity document. We retain the declaration, eligibility state, source, policy version and update time to enforce account access across devices. The iPhone app can also receive an age range and applicable restrictions from Apple. These signals can be declarations; they do not establish legal identity or universally verified age. Recorded younger ages or restrictions are not cleared by choosing an older age on another device. Contact support for corrections, age-transition review, underage concerns or privacy requests. We do not provide a parent-managed child-account system, and parental permission does not waive our minimum age.
+
+When available, Firebase App Check uses Apple App Attest to help confirm that an enrollment request comes from a genuine app instance. This does not verify your age or legal identity. We retain the resulting assurance label with eligibility information. Short-lived enrollment challenges and one-use token hashes prevent replay; expired entries are removed when the next challenge is created. We do not store the raw attestation token in the application database.
+
+Protected accounts, including eligible 16–17-year-olds and accounts without established adult eligibility, use private sharing. Public and nearby sharing and automatic category-audience expansion are unavailable. New posts limit circle access to members included when shared, subject to current membership and blocks; newly added members do not automatically gain access to earlier posts. Automatic recurring expansion is paused for protected accounts without deleting saved setups. Account owners can still review their own saved information.
+
+An invited person in an unsupported country can request availability without creating an account. We retain the country, invitation reference, request/review state and dates, rather than copying the invited email or phone into the request. Admins see country-level request counts. Duplicate requests from an invitation do not increase the count. Requests are removed when the associated account data is deleted or during cleanup after 180 days; cleanup occurs when the service processes requests. A request is not a promise of availability.
+
+Admins assign separate Post Moderator, Image Moderator and trusted-uploader permissions to eligible adult accounts. Moderation access is limited by role and checked when content is reviewed or acted on. Image uploads are disabled. Role changes and country-request decisions have private audit records. Service restrictions do not remove the ability to contact support, request correction or request deletion.
 
 ## 12. About this notice
 
