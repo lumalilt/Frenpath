@@ -40,6 +40,8 @@ Calendar matching setups, calendar links, unsent edits, and reminder preferences
 
 Local notifications may contain plan or reminder details on your lock screen. You can control notifications and previews in iOS settings.
 
+Live Activities can show a current posted plan, its title and category, timing, and aggregate join, request, attendance, witness and AfterParty information on the Lock Screen or Dynamic Island. When enabled, we store an activity-specific Apple push token with your account, installation, plan identifier and delivery settings to send updates through Apple Push Notification service. Local calendar review items and private drafts are excluded. Attendee names, contact information and post descriptions are not included in Live Activity payloads. You can disable Live Activities or hide plan titles and categories in Frenpath Notifications settings. Activity registrations are removed when stopped, invalidated or cleaned up after expiry; deleting the account removes its registrations.
+
 ## 4. Location and nearby discovery
 
 With permission, the iPhone app uses your location for nearby places, venues, and plans. Maps searches may send a search term and location or search region to Apple. Opening directions uses your chosen mapping service.
