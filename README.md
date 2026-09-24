@@ -48,3 +48,5 @@ Your audience choices matter. Public plans are visible more widely than circle p
 For help or feedback, contact [support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com). Please don’t put passwords, verification codes, private invitations, or other people’s personal information in GitHub issues.
 
 This repository contains user-facing information about Frenpath, rather than the app’s source code at this time.
+
+Read the [Terms of Use](docs/terms-of-use.md) and [Privacy Policy](docs/privacy-policy.md) for account, content and data-handling details.

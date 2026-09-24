@@ -1,8 +1,8 @@
 # Frenpath Privacy Policy
 
-**Effective date: September 20, 2026 · Last updated September 23, 2026**
+**Effective date: September 24, 2026 · Last updated September 24, 2026**
 
-Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information during the current invitation-only testing service. “We,” “us,” and “our” refer to the team operating Frenpath.
+Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information in the invitation-only testing service. “We,” “us,” and “our” refer to the team operating Frenpath.
 
 For privacy questions or requests, contact **[support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com)**. Do not include your password or verification codes. We may ask for information needed to verify that a request concerns your account.
 
@@ -12,6 +12,7 @@ For privacy questions or requests, contact **[support-frenpath@lumalilt.com](mai
 | --- | --- |
 | Account and authentication information | Your display name, verified email and phone number, account identifiers, verification state, and session information support sign-in, recovery, invitation matching, and access controls. Firebase Authentication handles passwords and verification; Frenpath does not store your password in its application database. |
 | Selected invitation details | The email address and/or phone number you select or type, intended circle, inviter, invitation token, expiry, and redemption status let us restrict an invitation to its intended recipient. This can include information about someone who has not joined yet. |
+| Private cloud drafts | Content, times, categories, intended audiences, sharing settings, and source identifiers you explicitly save let you continue a draft across devices. Drafts are not visible to other members and do not appear in their feeds or generate plan notifications. |
 | Statuses and relationships | Titles, descriptions, categories, start/end times, recurrence, places, addresses, links, audiences, circles, memberships, invitations, join requests, and responses provide the planning and sharing features. |
 | Participation and contributions | Activity records, attendance confirmations, witnesses, game enrollment, points, streaks, trophies, event/source contributions, verification feedback, and reports support games, community discovery, moderation, and abuse prevention. |
 | Preferences and account activity | Interests, category audiences, optional setup information, blocking choices, and records of authenticated activity support personalization, privacy choices, and inactivity deletion. Some preferences are stored on your device rather than the server. |
@@ -32,13 +33,13 @@ Share invitations only with the intended recipient, and provide other people’s
 Calendar access is optional and controlled through iOS permissions and Frenpath settings.
 
 - **Finding openings:** the app reads calendar availability on your device to suggest times and schedule local reminders. It does not upload detailed calendar events merely to find free slots.
-- **Calendar review and posting:** matching events stay on your iPhone until you explicitly tap Save draft or Post for a chosen event. Matching can read titles and descriptions locally. The review list is never automatically uploaded as cloud drafts. Save draft sends the chosen item’s edited content, times, categories, intended audience and source identifiers to your private account so you can continue on another device. Post makes the confirmed content available to its selected audience. Calendar notes and location are not automatically copied into the post. Calendar changes do not automatically update or delete posted plans. Previously imported statuses remain online until removed through the app.
-- **On-device categorization:** on supported devices, Apple Intelligence through the Foundation Models framework can use an event’s title and details to suggest a category. This analysis runs on the device. Categories and suggested audiences are reviewed before posting; no category suggestion automatically shares an event.
+- **Calendar review and posting:** matching events stay on your iPhone until you explicitly tap Save draft or Post for a chosen event. Matching can read titles and descriptions locally. The review list is never automatically uploaded as cloud drafts. Save draft sends the chosen item’s edited content, times, categories, intended audience and source identifiers to your private account so you can continue on another device. Post makes the confirmed content available to its selected audience. Calendar notes and location are not automatically copied into the post. Calendar changes do not automatically update or delete posted plans. Removing an item from the local review list does not delete the original calendar event.
+- **On-device categorization:** on supported devices, Apple Intelligence through the Foundation Models framework can use an event’s title and details to suggest a category. This analysis runs on the device. You can review categories and suggested audiences before posting; no category suggestion automatically shares an event.
 - **Writing to a calendar:** when you add a status to a calendar, its title, description, times, location, and links may be copied there. Your calendar provider and that calendar’s sharing settings then govern the copy.
 
-Calendar matching setups, calendar links, unsent edits, and reminder preferences may be stored locally. The calendar review list is account-specific, limited to upcoming events, protected on disk and excluded from device backup; its saved review edits are also excluded from backup. New calendar data is not automatically uploaded. Existing copies made by older app versions may remain in earlier backups. Disabling a permission stops future access but does not by itself erase statuses already imported or copies already written to a calendar. App deletion, remote edits, and status deletion do not necessarily remove exported calendar copies.
+Calendar matching setups, calendar links, unsent edits, and reminder preferences may be stored locally. The calendar review list is account-specific, limited to upcoming events, protected on disk and excluded from device backup; its saved review edits are also excluded from backup. Calendar review data is not automatically uploaded. Local candidates and their saved review edits are pruned as they expire or leave the review set. Disabling calendar permission stops calendar access but does not erase saved cloud drafts, posted statuses, or copies written to a calendar. App deletion, remote edits, and status deletion do not necessarily remove exported calendar copies.
 
-Local notifications may contain plan or reminder details on your lock screen. You can control notifications and previews in iOS settings.
+Activity push notifications use an Apple device token, installation identifier, account association, notification preferences, and delivery records stored by Frenpath. Apple receives the notification text and routing identifiers to deliver the alert. Notifications and locally scheduled calendar or connection reminders can reveal plan or reminder details on your lock screen. You can control alert types in Frenpath and permissions and previews in iOS settings. Muting notifications does not remove Activity feed items.
 
 Live Activities can show a current posted plan, its title and category, timing, and aggregate join, request, attendance, witness and AfterParty information on the Lock Screen or Dynamic Island. When enabled, we store an activity-specific Apple push token with your account, installation, plan identifier and delivery settings to send updates through Apple Push Notification service. Local calendar review items and private drafts are excluded. Attendee names, contact information and post descriptions are not included in Live Activity payloads. You can disable Live Activities or hide plan titles and categories in Frenpath Notifications settings. Activity registrations are removed when stopped, invalidated or cleaned up after expiry; deleting the account removes its registrations.
 
@@ -46,7 +47,7 @@ Live Activities can show a current posted plan, its title and category, timing, 
 
 With permission, the iPhone app uses your location for nearby places, venues, and plans. Maps searches may send a search term and location or search region to Apple. Opening directions uses your chosen mapping service.
 
-Searching for nearby plans does not itself make you discoverable. The Frenpath server uses the search area to return matches; the current application does not save that search location as a location-history record. Infrastructure providers may still process request metadata and logs.
+Searching for nearby plans does not itself make you discoverable. The Frenpath server uses the search area to return matches; the application does not save that search location as a location-history record. Infrastructure providers may still process request metadata and logs.
 
 When you deliberately enable nearby discovery for a status, an approximate area is stored with that status. A place name or street address you add can be more precise and can be visible to the status’s audience. Do not include your home address or another private location unless you intend to share it. Frenpath does not provide continuous background location tracking.
 
@@ -64,6 +65,12 @@ Extracted information can be wrong. Review dates, locations, and the original so
 
 A status can be private to you, shared with selected circles or people, or public to Frenpath members. Nearby discovery is an additional choice. “Public” does not promise publication to the entire internet; it does mean a broader audience within the service. People who receive content can still copy or share it outside the app.
 
+Save draft stores content privately from other members; its intended audience and public/discovery settings take effect when you post. “Private” does not mean end-to-end encrypted or inaccessible to the providers and authorized administrators described below. A copied plan link remains subject to sign-in and audience checks; sharing a link alone does not grant access to a restricted plan.
+
+Category defaults and calendar setup choices can preselect circles. Multiple categories can add their saved circles together, alongside people or circles you select directly. Review the displayed audience before saving a posted edit or tapping Post. Enabling Limit guests also enables Open to company; it does not by itself make a status public or enable nearby discovery. Open to company allows join requests, and confirmation depends on approval and capacity.
+
+Returning your posted status to Drafts removes that shared occurrence and saves its editable content as a private cloud draft. This does not recall notifications, screenshots, messages, calendar exports or other copies someone holds. Reposting creates a new post and does not restore its previous invitations or join responses. Recurring schedules store the content, timing and sharing choices needed to generate their occurrences. Removing one occurrence or returning it to Drafts does not stop the schedule; stopping the series is a separate action.
+
 Circle memberships, participation, game activities, leaderboards, and friend-visible trophies can reveal connections and attendance to the relevant audience. Private trophies use the private visibility option. Blocking restricts access within the app but cannot recall information someone already saw or copied.
 
 Optional JW Mode stores planning preferences such as selected goals, service targets, companions, and notes. These can reveal religious beliefs or associations. Other statuses or categories can reveal health, caregiving, or similarly sensitive matters. Such information is not required for basic use; consider what you enter and whom you share it with. Setup preferences are not automatically a public profile, but plans you create from them follow their selected audiences.
@@ -75,14 +82,14 @@ The optional generation-based theme prompt does not save or transmit your genera
 We use service providers to operate the app, including:
 
 - **Google Firebase Authentication** for account verification, sign-in, recovery, and abuse protection. Google receives and stores phone numbers used for authentication for spam and abuse prevention across Google services, including Firebase. See [Firebase’s phone-authentication disclosure](https://firebase.google.com/docs/auth/web/phone-auth) and [Google’s Privacy Policy](https://policies.google.com/privacy).
-- **OpenAI Sites and its hosting infrastructure, including Cloudflare**, to host the website, API, and application database. A ChatGPT account is not required for current Frenpath sign-in. Hosting through Sites does not mean local AI features send their inputs to ChatGPT.
+- **OpenAI Sites and its hosting infrastructure, including Cloudflare**, to host the website, API, and application database. Frenpath uses Firebase sign-in and does not require a ChatGPT account. Hosting through Sites does not mean local AI features send their inputs to ChatGPT.
 - **Apple services**, where you use iOS, TestFlight, Maps, calendar integrations, or device features. TestFlight may provide developer-facing testing, crash, or feedback information under Apple’s settings and policies. See [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
 
 Authorized administrators may access information needed to provide support, moderate contributions, investigate abuse, and operate the service. We may disclose information when required by law or necessary to protect users, enforce service rules, or respond to security incidents. We do not promise that shared statuses are end-to-end encrypted.
 
 When you report content, Frenpath sends moderators a copy of the reported content, your chosen reason and explanation, and your account identifier. Your identity is not shared with the person reported. Moderators can hide or restore content and keep decision notes. Limited report evidence and moderation records may be retained after content or account deletion to handle appeals, investigate abuse, and prevent repeated violations.
 
-The current app does not integrate a third-party advertising network or sell personal information. Sponsored/ad placeholders may appear, and related feedback may be stored. Those placeholders are not a claim that a live ad network is receiving your data. We will update this policy before introducing materially different advertising or data uses.
+Frenpath does not sell personal information or integrate a third-party advertising network. Sponsored/ad placeholders can appear, and feedback about them is stored to operate and review that content.
 
 ## 8. Cookies and device storage
 
@@ -90,7 +97,7 @@ The website uses necessary authentication cookies and Firebase browser storage t
 
 Optional browser storage remembers unfinished plan drafts between visits, including any entered location and audience. It is off until you choose Accept all. Necessary only rejects all optional storage and removes saved browser drafts without signing you out, deleting your account, or changing published plans. Text currently open in an editor remains there until you close or leave it. These browser-only recovery copies expire 30 days after their last edit and are removed when the website next checks storage. Explicit Save draft stores a separate private cloud draft regardless of optional browser storage. Cloud drafts remain until you delete them, post them, or your account data is deleted. Posting removes the draft content and retains a small retry record to avoid duplicate posts.
 
-Your choice, notice version, and decision time are stored on this browser for 180 days. You can change or withdraw the choice at any time using Privacy choices in the website footer or Settings. Withdrawal stops future draft storage and removes saved drafts from this browser. We do not add advertising or analytics trackers. A new optional purpose would require a new choice; Accept all does not authorize undisclosed future uses.
+Your choice, notice version, and decision time are stored on this browser for 180 days. You can change or withdraw the choice at any time using Privacy choices in the website footer or Settings. Withdrawal disables optional draft storage and removes saved drafts from this browser. Frenpath does not add advertising or analytics trackers. Accept all applies only to the optional storage described here.
 
 These browser choices do not give blanket consent to processing personal information, change content audiences, or waive privacy rights. Necessary storage cannot be turned off through this optional-storage control; blocking it in your browser may prevent sign-in or other requested features. External websites have their own storage policies. The native iPhone app uses device storage for its requested features and does not use this browser draft-consent setting.
 
@@ -102,7 +109,7 @@ Clearing browser/app data can remove local settings or sign you out. Signing out
 
 You can request account deletion in Frenpath Settings. Deletion removes app membership and associated personal app records, including owned statuses and circles, subject to the exceptions below. Deleting a circle can affect other members’ access to it.
 
-Accounts also have an inactivity-deletion setting of **1, 3, or 6 months**, with **6 months as the default** and no Off option. The current implementation measures authenticated app activity, not only the last time you typed a password. Cleanup runs as the service is used, so deletion may occur after rather than precisely at the deadline.
+Accounts also have an inactivity-deletion setting of **1, 3, or 6 months**, with **6 months as the default** and no Off option. The inactivity setting measures authenticated app activity, not only the last time you typed a password. Cleanup runs as the service is used, so deletion may occur after rather than precisely at the deadline.
 
 Important limits:
 
@@ -110,7 +117,7 @@ Important limits:
 - Limited account identifiers and deletion/retry records can remain to enforce deletion and prevent inappropriate restoration.
 - Approved community-event facts may remain as system-owned community content after the contributor’s account is deleted.
 - Deletion cannot recall recipients’ copies, screenshots, shared messages, third-party website records, or exported calendar events.
-- Provider logs and backups may have separate retention periods. We do not currently promise a fixed deletion deadline for every provider copy.
+- Provider logs and backups may have separate retention periods. There is no single guaranteed deletion deadline for every provider copy.
 
 If you cannot sign in, contact us using the address above to request help or deletion. For invitation or access questions, you can also contact the person who invited you. Never share your password or verification codes with them. Do not send identity documents unless specifically requested through an appropriate private channel.
 
@@ -128,6 +135,6 @@ Our providers may process information in countries other than yours. Their arran
 
 Frenpath is not designed specifically for children. We do not offer a parent-managed child-account system. If you believe a child has provided information in circumstances requiring parental consent, contact us so we can investigate and address it.
 
-## 12. Policy updates
+## 12. About this notice
 
-We will revise this document as the service changes and update the effective date. Where required, we will provide notice or obtain consent before material changes take effect. This policy describes current practices, not unbuilt features or a guarantee that experimental features will remain available.
+The date above identifies this notice. It describes Frenpath’s data handling and works alongside the [Terms of Use](https://frenpath.com/terms). Privacy choices and use of the service do not waive rights under applicable law.
