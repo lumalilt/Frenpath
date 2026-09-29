@@ -1,8 +1,8 @@
 # Frenpath Privacy Policy
 
-**Effective date: September 24, 2026 · Last updated September 24, 2026**
+**Effective date: September 29, 2026 · Last updated September 29, 2026**
 
-Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information in the invitation-only testing service. “We,” “us,” and “our” refer to the team operating Frenpath.
+Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information in the testing service. Membership is invitation-only; guests can browse general ideas and approved web-public plans without an account. “We,” “us,” and “our” refer to the team operating Frenpath.
 
 For privacy questions or requests, contact **[support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com)**. Do not include your password or verification codes. We may ask for information needed to verify that a request concerns your account.
 
@@ -63,9 +63,9 @@ Extracted information can be wrong. Review dates, locations, and the original so
 
 ## 6. Audiences, games, and sensitive information
 
-A status can be private to you, shared with selected circles or people, or public to Frenpath members. Nearby discovery is an additional choice. “Public” does not promise publication to the entire internet; it does mean a broader audience within the service. People who receive content can still copy or share it outside the app.
+A status can be private to you, shared with selected circles or people, or visible to Frenpath members. Anyone on the web is a separate, explicit choice for eligible adults. After moderation approval, the title, description, categories, dates, location, link and approved photo can be viewed without signing in. Circle names, recipient lists, participant lists and account contact details are not included in the guest view. Edits require a new web review. Removing web visibility removes access through the guest service, but cannot recall copies, screenshots or information already shared. Blocking a member cannot prevent signed-out viewing of a web-public plan. Nearby discovery is an additional choice.
 
-Save draft stores content privately from other members; its intended audience and public/discovery settings take effect when you post. “Private” does not mean end-to-end encrypted or inaccessible to the providers and authorized administrators described below. A copied plan link remains subject to sign-in and audience checks; sharing a link alone does not grant access to a restricted plan.
+Save draft stores content privately from other members; its intended audience and public/discovery settings take effect when you post. “Private” does not mean end-to-end encrypted or inaccessible to the providers and authorized administrators described below. Links to private or members-only plans remain subject to sign-in and audience checks. Approved web-public plan links can be viewed without signing in.
 
 Category defaults and calendar setup choices can preselect circles. Multiple categories can add their saved circles together, alongside people or circles you select directly. Review the displayed audience before saving a posted edit or tapping Post. Enabling Limit guests also enables Open to company; it does not by itself make a status public or enable nearby discovery. Open to company allows join requests, and confirmation depends on approval and capacity.
 
@@ -141,7 +141,13 @@ Protected accounts, including eligible 16–17-year-olds and accounts without es
 
 An invited person aged 16 or older in an unsupported country can join an email waitlist without creating an account or requesting an SMS. With explicit consent, we retain their provided email, country, age band, invitation reference, consent version and time, review state and contact dates so the Frenpath team can contact them about availability in that country. Waitlist email addresses are not independently verified and are not used for marketing. Only site administrators can view the contact list. Existing country-interest requests are not automatically enrolled for email. One entry is saved per invitation. People can leave through their original invitation even after it expires, or ask support to remove their details. Entries expire 180 days after the latest consent and are removed on the next waitlist/request check or associated account-data deletion. Joining does not create membership, reserve a position or guarantee availability; normal invitation and eligibility checks still apply when enrollment opens.
 
-Admins assign separate Post Moderator, Image Moderator and trusted-uploader permissions to eligible adult accounts. Moderation access is limited by role and checked when content is reviewed or acted on. Image uploads are disabled. Role changes and country-request decisions have private audit records. Service restrictions do not remove the ability to contact support, request correction or request deletion.
+Admins assign separate Post Moderator, Image Moderator, Trusted Image Uploader and Trusted Minor Tester permissions. Moderators must have adult eligibility. Image uploaders must have eligible accounts; eligible 16–17-year-olds need both uploader and minor tester roles. These roles do not verify legal identity. Moderation access is limited by role and checked on each request. Role changes and review decisions have private audit records. Service restrictions do not remove the ability to contact support, request correction or request deletion.
+
+## Photos and image review
+
+When image features are enabled, permitted users can attach one still photo to a post or circle. The device resizes and compresses the photo; the server independently re-encodes it and removes embedded metadata, including location tags. We store the processed photo, a thumbnail, its description, owner/item identifiers, review context and moderation records in private service storage. Originals are not retained. Image Moderators and admins can privately inspect submitted images and the associated text. An open-source sexual-content classifier runs on the reviewer’s device using a model hosted by Frenpath; photos and post text are not sent to an external AI screening service. Its results assist mandatory human review and are not an age, consent or comprehensive safety check.
+
+Approved images follow the current post or circle audience. Images on an approved web-public plan can be viewed without signing in; other images retain their sign-in and audience checks. Text changes require another image review before the photo is shared with the changed text. Removing an image withdraws access immediately. Rejected, removed, replaced and unreviewed images become eligible for deletion after 30 days and are removed in bounded background cleanup when the service is used. Images whose post, circle or account is deleted are also removed during cleanup. A documented incident hold can preserve restricted evidence until released. Review decisions and safety audit records may remain for abuse prevention and appeals. Display switches can hide approved images without deleting them.
 
 ## 12. About this notice
 

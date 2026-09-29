@@ -1,8 +1,8 @@
 # Frenpath Terms of Use
 
-**Effective date: September 24, 2026**
+**Effective date: September 29, 2026**
 
-Frenpath is a LumaLilt invitation-only testing service for sharing statuses, making plans and staying in touch. These terms apply to its iPhone app and website. For support or a moderation appeal, contact [support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com).
+Frenpath is a LumaLilt testing service for sharing statuses, making plans and staying in touch. Membership is invitation-only; guests can browse general ideas and approved web-public plans without an account. These terms apply to its iPhone app and website. For support or a moderation appeal, contact [support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com).
 
 ## 1. Your account and invitations
 
@@ -28,15 +28,17 @@ You are responsible for the content and contact details you choose to submit and
 
 You retain your rights in your content. You authorize Frenpath and its service providers to store, process and display submitted content as needed to provide the features you request, respect the selected audience, deliver notifications, moderate reports and operate the service, subject to the Privacy Policy. This authorization is not permission to sell your personal information. Your responsibilities do not replace Frenpath’s own privacy, security or other legal obligations, and these terms do not waive rights that applicable law protects.
 
-A public status is available to Frenpath members beyond your selected circles. Nearby discovery is an additional choice. Plan links remain subject to sign-in and audience checks. People with access can still copy information outside the service. Review the destination calendar’s sharing settings before exporting a plan.
+Frenpath members visibility shares beyond your selected circles within the service. Anyone on the web is a separate option for eligible adults and requires moderation approval. It makes the displayed plan details and approved photo accessible without sign-in. Do not post another person’s private information or a private address for an unrestricted audience. Edits require another review. Private and members-only links retain their audience checks. Joining requires membership. Removing a web-public plan or blocking a member cannot recall copies or prevent access to copies outside Frenpath. Review the destination calendar’s sharing settings before exporting a plan.
 
 ## 4. Community safety and moderation
 
 Do not post harassment, hate, threats, exploitative sexual content, scams, spam or unlawful content. Do not misuse invitations, attendance claims, witness confirmations, reports or community contributions. Provide honest information about participation and events.
 
-Use Report on a plan, event source, contributed event or sponsored activity to ask moderators to review it. Reports include a copy of the content and your explanation for moderator review; your identity is not shared with the reported person. Track reports in Settings → Safety & reports and use blocking controls to restrict access within the app. Reports do not automatically remove content. Moderators can hide content that violates these rules and restore it after review. Limited evidence and decision records are retained as described in the Privacy Policy.
+Use Report on a plan, circle, event source, contributed event or sponsored activity to ask moderators to review it. Reports include a copy of the content and your explanation for moderator review; your identity is not shared with the reported person. Track reports in Settings → Safety & reports and use blocking controls to restrict access within the app. Reports do not automatically remove content. Moderators can hide content that violates these rules and restore it after review. Limited evidence and decision records are retained as described in the Privacy Policy.
 
 For a moderation appeal, email [support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com). For immediate danger, contact local emergency services. Frenpath is not an emergency service.
+
+Images are available only when enabled by an admin and only to accounts with Trusted Image Uploader permission. Eligible 16–17-year-olds also need Trusted Minor Tester permission. Upload only photos you have the right to share and the necessary permission from identifiable people. Do not upload sexual or exploitative imagery, intimate images shared without consent, graphic violence, or images exposing another person’s private information. Photos and their associated text are reviewed before the image becomes visible to its audience; approval is not a guarantee of safety, ownership or consent. Permissions can be revoked, and images can be rejected or removed. Use Report on the post or circle, or contact support for urgent privacy, copyright or safety concerns and appeals.
 
 ## 5. Suggestions, events and notifications
 
