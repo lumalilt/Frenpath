@@ -38,7 +38,7 @@ Use Report on a plan, circle, event source, contributed event or sponsored activ
 
 For a moderation appeal, email [support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com). For immediate danger, contact local emergency services. Frenpath is not an emergency service.
 
-Images are available only when enabled by an admin and only to accounts with Trusted Image Uploader permission. Eligible 16–17-year-olds also need Trusted Minor Tester permission. Upload only photos you have the right to share and the necessary permission from identifiable people. Do not upload sexual or exploitative imagery, intimate images shared without consent, graphic violence, or images exposing another person’s private information. Photos and their associated text are reviewed before the image becomes visible to its audience; approval is not a guarantee of safety, ownership or consent. Permissions can be revoked, and images can be rejected or removed. Use Report on the post or circle, or contact support for urgent privacy, copyright or safety concerns and appeals.
+Image uploading is available to eligible accounts when enabled. Upload only photos you have the right to share and the necessary permission from identifiable people. Do not upload sexual or exploitative imagery, intimate images shared without consent, graphic violence, or images exposing another person’s private information. Photos and their associated text are reviewed before the image becomes visible to its audience; approval is not a guarantee of safety, ownership or consent. Permissions can be revoked, and images can be rejected or removed. Use Report on the post or circle, or contact support for urgent privacy, copyright or safety concerns and appeals.
 
 ## 5. Suggestions, events and notifications
 
