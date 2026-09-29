@@ -2,7 +2,7 @@
 
 **Effective date: September 29, 2026**
 
-Frenpath is a LumaLilt testing service for sharing statuses, making plans and staying in touch. Membership is invitation-only; guests can browse general ideas and approved web-public plans without an account. These terms apply to its iPhone app and website. For support or a moderation appeal, contact [support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com).
+Frenpath is a LumaLilt testing service for sharing statuses, making plans and staying in touch. Membership is invitation-only; guests can browse general ideas and approved web-public plans without an account. These terms apply to its iPhone app and website. For support or a moderation appeal, contact [support+frenpath@lumalilt.com](mailto:support+frenpath@lumalilt.com).
 
 ## 1. Your account and invitations
 
@@ -36,7 +36,7 @@ Do not post harassment, hate, threats, exploitative sexual content, scams, spam 
 
 Use Report on a plan, circle, event source, contributed event or sponsored activity to ask moderators to review it. Reports include a copy of the content and your explanation for moderator review; your identity is not shared with the reported person. Track reports in Settings → Safety & reports and use blocking controls to restrict access within the app. Reports do not automatically remove content. Moderators can hide content that violates these rules and restore it after review. Limited evidence and decision records are retained as described in the Privacy Policy.
 
-For a moderation appeal, email [support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com). For immediate danger, contact local emergency services. Frenpath is not an emergency service.
+For a moderation appeal, email [support+frenpath@lumalilt.com](mailto:support+frenpath@lumalilt.com). For immediate danger, contact local emergency services. Frenpath is not an emergency service.
 
 Image uploading is available to eligible accounts when enabled. Upload only photos you have the right to share and the necessary permission from identifiable people. Do not upload sexual or exploitative imagery, intimate images shared without consent, graphic violence, or images exposing another person’s private information. Photos and their associated text are reviewed before the image becomes visible to its audience; approval is not a guarantee of safety, ownership or consent. Permissions can be revoked, and images can be rejected or removed. Use Report on the post or circle, or contact support for urgent privacy, copyright or safety concerns and appeals.
 

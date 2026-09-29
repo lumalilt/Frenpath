@@ -4,7 +4,7 @@
 
 Frenpath is a LumaLilt project for sharing statuses, making plans, and staying in touch. This policy explains how the Frenpath iPhone app and website handle information in the testing service. Membership is invitation-only; guests can browse general ideas and approved web-public plans without an account. “We,” “us,” and “our” refer to the team operating Frenpath.
 
-For privacy questions or requests, contact **[support-frenpath@lumalilt.com](mailto:support-frenpath@lumalilt.com)**. Do not include your password or verification codes. We may ask for information needed to verify that a request concerns your account.
+For privacy questions or requests, contact **[support+frenpath@lumalilt.com](mailto:support+frenpath@lumalilt.com)**. Do not include your password or verification codes. We may ask for information needed to verify that a request concerns your account.
 
 ## 1. Information we handle
 
