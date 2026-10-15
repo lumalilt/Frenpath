@@ -18,7 +18,7 @@ Maybe it’s coffee with a friend, a walk after work, a game night, or a regular
 - **Make time for connection.** Calendar-aware suggestions on iPhone help you spot openings. Stay-in-touch reminders help you make plans with people you mean to see more often.
 - **Build a rhythm together.** Recurring plans and Circle Strides help your circle keep showing up. Circle Quest, First Sparks, and a trophy case bring a little play to everyday connection.
 - **Help your community discover more.** Join Local Legends to contribute local event sources and check event details. Your contributions help make discovery more useful for everyone.
-- **Make it feel like you.** Pick a theme, explore earned themes, and choose the interests and categories that fit your life. Optional JW Mode adds relevant categories and planning goals for people who want them.
+- **Make it feel like you.** Pick a theme, explore earned themes, and choose the interests and categories that fit your life. Optional Spiritual mode adds relevant categories and planning goals for people who want them.
 
 ## Getting started
 

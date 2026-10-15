@@ -30,6 +30,8 @@ You retain your rights in your content. You authorize Frenpath and its service p
 
 Frenpath members visibility shares beyond your selected circles within the service. Anyone on the web is a separate option for eligible adults and requires moderation approval. It makes the displayed plan details and approved photo accessible without sign-in. Do not post another person’s private information or a private address for an unrestricted audience. Edits require another review. Private and members-only links retain their audience checks. Joining requires membership. Removing a web-public plan or blocking a member cannot recall copies or prevent access to copies outside Frenpath. Review the destination calendar’s sharing settings before exporting a plan.
 
+Spiritual mode is an optional planning feature available to anyone, including people exploring it out of curiosity. Enabling it is not a declaration of religious identity, belief, or affiliation. Setup preferences stay private to your account; plans you choose to share use their selected audiences. Do not assume another person’s beliefs from their use of this feature.
+
 ## 4. Community safety and moderation
 
 Do not post harassment, hate, threats, exploitative sexual content, scams, spam or unlawful content. Do not misuse invitations, attendance claims, witness confirmations, reports or community contributions. Provide honest information about participation and events.
@@ -50,8 +52,18 @@ External websites, messaging apps, mapping services and calendar providers have 
 
 ## 6. Privacy, account deletion and availability
 
-The [Privacy Policy](https://frenpath.com/privacy) explains the information Frenpath handles, providers, retention, deletion and privacy requests. [Privacy choices](https://frenpath.com/privacy-choices) controls optional browser draft storage; it does not change a plan’s audience or delete cloud drafts or your account.
+The [Privacy Policy](https://frenpath.com/privacy) explains the information Frenpath handles, providers, retention, deletion and privacy requests. [Privacy choices](https://frenpath.com/privacy-choices) controls optional browser draft storage and advertising separately; it does not change a plan’s audience or delete cloud drafts or your account.
 
 You can request account deletion in Settings. Inactive accounts are subject to the configured deletion period described in the Privacy Policy. Deletion affects owned circles and statuses and is subject to the stated limits for moderation evidence, delivery/deletion records, community content and copies held by recipients or providers. Signing out or uninstalling the app does not by itself delete your server account.
 
 Frenpath is a testing service. Availability, notification delivery and data recovery are not guaranteed. Keep independent copies of information you need. Nothing in these terms excludes obligations or liability that applicable law does not allow to be excluded.
+
+## 7. Early access, advertising and optional paid plans
+
+Frenpath is currently free to use during early access. We may introduce clearly labeled advertising, sponsored activities, and optional paid or subscription plans offering ad removal and/or additional features. Advertising and paid-plan availability may differ by platform. Our intended model keeps ordinary connecting and planning free, while some advanced features may become paid options.
+
+A feature labeled “Free During Early Access” is available without charge during its early-access period and may later become part of an optional paid plan. The label does not promise permanent free access or a particular future price. We will explain material pricing or access changes in advance, including how they affect existing users and saved content. Any early-user benefits or continued free access will be described when offered.
+
+You will not be charged or automatically enrolled in a paid subscription because you used an early-access feature. A purchase will require your explicit agreement to the price and applicable purchase terms. Before a subscription purchase, we will disclose its billing period, any automatic renewal, cancellation arrangements and applicable refund terms. No paid plan or subscription is currently available.
+
+Advertising does not change the audience you selected for your content. Advertising data practices and available choices are governed by the Privacy Policy; agreeing to these terms does not replace any separately required advertising consent. Sponsored placements will be identified, and sponsorship is not a guarantee of an activity’s quality, availability or safety.
